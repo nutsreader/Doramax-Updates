@@ -1,1 +1,1 @@
-{"isUpdateForced":false,"latestVersionCode":23,"latestVersionName":"1.0.23","releaseNotes":"1. Added option to delete account.\n2. Added option to send a request.\n3. Fixed ui issues."}
+{"isUpdateForced":false,"latestVersionCode":24,"latestVersionName":"1.0.24","releaseNotes":"No need login on app open\n1. login is only required when...\na. Bookmarking a show\nb. Reserving a show\nc. Requesting a show"}
