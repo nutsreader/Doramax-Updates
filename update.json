@@ -1,1 +1,1 @@
-{"isUpdateForced":false,"latestVersionCode":25,"latestVersionName":"1.0.25","releaseNotes":"New ui update "}
+{"isUpdateForced":false,"latestVersionCode":26,"latestVersionName":"1.0.26","releaseNotes":"Added season indicator to avoid confusion with the episode numbering.\n- example S{x} EP1\n- S1 EP1"}
